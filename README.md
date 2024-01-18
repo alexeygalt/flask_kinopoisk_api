@@ -1,4 +1,4 @@
-# SkyPro Coursework 4
+
 
 ## Описание проекта
 
